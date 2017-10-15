@@ -6,7 +6,7 @@ Agenda dag 8 d. 16-10-2017
 [Movie Frontend](https://moviesfrontandback.herokuapp.com/#/movies)    
 
 ## RestFull Web API
-[RESTful Best Practices](http://www.restapitutorial.com/media/RESTful_Best_Practices-v1_1.pdf)
+[RESTful Best Practices](http://www.restapitutorial.com/media/RESTful_Best_Practices-v1_1.pdf)    
 [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 
 ## JSON
