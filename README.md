@@ -19,3 +19,7 @@ Agenda dag 8 d. 16-10-2017
 
 [Postman for Chrome (extension for Chrome)](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)    
 [JSONView (extension for Chrome)](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+
+
+## Tutorial
+[first-web-api](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
